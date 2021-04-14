@@ -1,0 +1,20 @@
+conda update conda  ###updates conda
+conda install <package_name>
+conda uninstall <package_name>
+conda update <package_name>
+conda --version
+conda env list
+conda create --name <your_env_name> python=3.6 pandas numpy scipy
+activate <your_env_name>
+deactivate <your_env_name>
+conda env remove --name <your_env_name>
+pip -m venv <your_env_name>
+<your_env_name>\scripts\activate
+pip install -r <file_with_dependencies>
+
+
+
+Types of Environment:
+pip env
+conda
+virtual env wrapper
