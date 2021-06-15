@@ -1,7 +1,7 @@
 # Helpful git, environments and data science starter commands
 
 ## Introduction
-This is a reference repo for beginners looking for a quick access to the most used Git commands, the commands to create virtual environments with Conda, some basic data science codes and a typical `ReadMe.md` file structure
+This is a reference repo for beginners looking for a quick access to the most used **Git commands**, the commands to create virtual environments with Conda, some basic data science codes and a typical `ReadMe.md` file structure
 
 ## Motivation 
 
