@@ -14,7 +14,7 @@ pip install -r <file_with_dependencies>
 
 
 
-Types of Environment:
+=============Types of Environment Maker======================
 pip env
 conda
 virtual env wrapper

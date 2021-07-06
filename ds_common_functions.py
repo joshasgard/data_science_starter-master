@@ -88,3 +88,11 @@ pd.merge(data1, data2, how = 'inner' , on = 'col1')
 
 # write to csv 
 data.to_csv('data_out.csv')
+
+# =======Check Code Run Time ===============
+start = time.time()
+'''
+Write code here and run
+
+'''
+print('Duration: {} seconds'.format(time.time() - start))
